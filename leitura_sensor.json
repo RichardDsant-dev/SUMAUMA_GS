@@ -1,1 +1,1 @@
-{"territorio_id": "1", "temperatura": 35.5, "umidade": 24.0, "fumaca_ppm": 160, "chama_detectada": false}
+{"estacao": "ribeirinha01", "t_s": 120, "rio_cm": 150.0, "temp_c": 39.0, "umid_pct": 55.0, "fumaca_pct": 10, "qualidade_ar": "RUIM", "chama_pct": 0, "taxa_temp_c_min": 0.4, "indicadores": 1, "estado": "ALERTA", "motivo": "CALOR_EXTREMO", "remoto": false, "buffered": false}
